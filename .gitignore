@@ -112,3 +112,8 @@ data/datastore/
 data/datastore_spec
 data/keystore/
 data/version
+data/swarm.key
+data/api
+data/repo.lock
+
+staging/
